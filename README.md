@@ -31,7 +31,7 @@ Project | Description | Code/Demo Links | Technologies Used | Testing Technologi
 [Acebook](https://github.com/gabokappa/acebook-suckerberg) | A group project to create a web app that allows users to signup, post, like and comment on each other's walls including create photo albums. | [AWS](http://ec2-52-57-26-149.eu-central-1.compute.amazonaws.com:3000/) | Ruby, Rails, Devise, Bootstrap, PostgreSQL | RSpec, Capybara
 [Makers-BNB](https://github.com/gabokappa/Makers-BNB) | A group project that lets a user list/book properties and manage those bookings. Includes calendar functionality and automated emails triggered by various events. | [Github](https://github.com/gabokappa/Makers-BNB) | Ruby, Sinatra, Mail, BCrypt | RSpec, Capybara
 [Takeaway](https://github.com/gabokappa/takeaway-challenge) | After 2 weeks of coding I built a command-line program that lets you order from a takeaway menu. It has integration with Twilio API to send actual SMS messages. | [Github](https://github.com/gabokappa/takeaway-challenge) |Ruby, Twilio API | RSpec
-[Student Directory](https://github.com/gabokappa/student-directory) | A command-line program that lets you load, print, and save a list containing student names. | [Github](https://github.com/gabokappa/student-directory) | Ruby | RSpec
+[Bank tech test](https://github.com/gabokappa/bank-tech-test) | A tech test where a user can carry out basic banking functionality through the command-line. | [Github](https://github.com/gabokappa/bank-tech-test) | Ruby | RSpec
 
 
 ## Education
