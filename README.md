@@ -1,15 +1,15 @@
 ## Gabriel Gonzalez
 [SKILLS](#skills) | [PROJECTS](#projects)| [EDUCATION](#education) | [EXPERIENCE](#experience) | [LINKEDIN](https://www.linkedin.com/in/ggp86/)
 
-Currently embarking on an exciting career change towards software engineering having worked as a social media specialist for the past 10 years across the private, public and third sector. My career has predominantly serviced the marketing and communications functions across a diverse range of organisations. Most recently, I've spent 4 years working in the insurance industry as the UK's Social Media Manager for Hiscox, a FTSE100 company. Whilst at Hiscox I realised the importance of coding as a skill, and how it impacted most of the projects I was involved in which ultimately led me to change my career.
+Currently embarking on an exciting career change towards software engineering having worked as a social media specialist for the past 10 years. My career has predominantly serviced the marketing and communications functions across a diverse range of organisations across the private, public and third sector. Most recently, I've spent 4 years working in the insurance industry as the UK's Social Media Manager for Hiscox, a FTSE100 company. Whilst at Hiscox I realised the importance of coding as a skill, and how it impacted most of the projects I was involved in which ultimately led me to change my career.
 
-I find it very stimulating that coding allows you to find a creative solution towards solving a problem and drives you to continuously learn so that you can be at the forefront of your trade.
+I find it very stimulating that coding allows you to find a creative solution towards solving a problem and it drives you to continuously learn so that you can be at the forefront of your trade.
 
 ## Skills
 
 #### Teamwork
 
-At Hiscox, I led a project that aimed to generate leads through social media advertising. The project involved coordinating and working with external tech and creative teams together with internal data controllers. In order to achieve success I had to work closely with these teams in order to overcome technical difficulties and reach compromises to ensure the project stayed on track. Part of this was also managing stakeholder expectations and ensuring the project remained front of mind for those involed.
+At Hiscox, I led a project that aimed to generate leads through social media advertising. The project involved coordinating and working with external tech and creative teams together with internal data controllers. In order to achieve success I had to work closely with these teams to overcome technical difficulties and reach compromises to ensure the project stayed on track. Part of the project involved managing stakeholder expectations and ensuring the project remained front of mind ampngst other priorities.
 
 #### Adaptability
 
@@ -46,7 +46,7 @@ London’s leading software development bootcamp.
 - PostgreSQL
 - Ruby, JavaScript
 - RSpec, Jasmine
-- Rails 
+- Rails, React 
 - HTML, CSS, Bootstrap
 
 #### University of Birmingham (Sep '05 to Jul '09)
@@ -59,7 +59,7 @@ London’s leading software development bootcamp.
 
 **Hiscox** (March '15 to April '19)    
 *UK Social Media Manager*  
-- Led a revenue generated project using social media advertising. This involved taking an agile approach to working with both external creative agencies and internal data managers to A/B test creatives and targeting in order to maximise return.
+- Led a revenue generating project using social media advertising. This involved taking an agile approach to working with both external creative agencies and internal data managers to A/B test creatives and targeting in order to maximise return.
 
 **British Dental Association (BDA)** (August '12 to March '15)   
 *Communities and Social Media Executive*  
