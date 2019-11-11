@@ -59,13 +59,13 @@ London’s leading software development bootcamp.
 
 **Hiscox** (March '15 to April '19)    
 *UK Social Media Manager*  
-- Led a revenue generating project using social media advertising. This involved taking an agile approach to working with both external creative agencies and internal data managers to A/B test creatives and targeting in order to maximise return.
+- Social media lead for UK operations, where I led advertising campaigns and revenue generating projects. This involved taking an agile approach to working with both external creative agencies and internal data managers to A/B test creatives and targeting in order to maximise return.
 
 **British Dental Association (BDA)** (August '12 to March '15)   
 *Communities and Social Media Executive*  
 - Project managed the creation of a new Communities site based on WordPress. Worked with the UX and CSS specialists, content owners, and the IT team to ensure the site met BDA member requirements whilst integrating into existing data systems and other BDA sites.
 
-[_View a a more comprehensive list of employment history_](https://www.linkedin.com/in/ggp86/)
+[_View a more comprehensive list of employment history_](https://www.linkedin.com/in/ggp86/)
 
 ## Hobbies & Interests
 
