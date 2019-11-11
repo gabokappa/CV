@@ -65,6 +65,8 @@ London’s leading software development bootcamp.
 *Communities and Social Media Executive*  
 - Project managed the creation of a new Communities site based on WordPress. Worked with the UX and CSS specialists, content owners, and the IT team to ensure the site met BDA member requirements whilst integrating into existing data systems and other BDA sites.
 
+[_View a a more comprehensive list of employment history_](https://www.linkedin.com/in/ggp86/)
+
 ## Hobbies & Interests
 
 - **Running** : I have a regular appointment with the treadmill three times a week.
