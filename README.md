@@ -28,10 +28,10 @@ Throughout my career I have been commended on my crisis management skills and ca
 ### <a name="projects">Projects & Code</a>
 Project | Description | Code/Demo Links | Technologies Used | Testing Technologies
 --- | --- | --- | --- | ---
+[VeloCity](https://github.com/gabokappa/VeloCity/) | Final group project at Makers Academy, a web app that tracks the use of bike components based on a user's strava account. | [Github](https://github.com/gabokappa/VeloCity/) | React, Ruby, Rails, JavaScript, PostgreSQL, Bootstrap | Jest, RSpec, Cypress
 [Acebook](https://github.com/gabokappa/acebook-suckerberg) | A group project to create a web app that allows users to signup, post, like and comment on each other's walls including create photo albums. | [AWS](http://ec2-52-57-26-149.eu-central-1.compute.amazonaws.com:3000/) | Ruby, Rails, Devise, Bootstrap, PostgreSQL | RSpec, Capybara
-[Makers-BNB](https://github.com/gabokappa/Makers-BNB) | A group project that lets a user list/book properties and manage those bookings. Includes calendar functionality and automated emails triggered by various events. | [Github](https://github.com/gabokappa/Makers-BNB) | Ruby, Sinatra, Mail, BCrypt | RSpec, Capybara
-[Takeaway](https://github.com/gabokappa/takeaway-challenge) | After 2 weeks of coding I built a command-line program that lets you order from a takeaway menu. It has integration with Twilio API to send actual SMS messages. | [Github](https://github.com/gabokappa/takeaway-challenge) |Ruby, Twilio API | RSpec
 [Bank tech test](https://github.com/gabokappa/bank-tech-test) | A tech test where a user can carry out basic banking functionality through the command-line. | [Github](https://github.com/gabokappa/bank-tech-test) | Ruby | RSpec
+[Takeaway](https://github.com/gabokappa/takeaway-challenge) | After 2 weeks of coding I built a command-line program that lets you order from a takeaway menu. It has integration with Twilio API to send actual SMS messages. | [Github](https://github.com/gabokappa/takeaway-challenge) |Ruby, Twilio API | RSpec
 
 
 ## Education
