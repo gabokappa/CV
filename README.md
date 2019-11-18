@@ -1,7 +1,7 @@
 ## Gabriel Gonzalez
 [SKILLS](#skills) | [PROJECTS](#projects)| [EDUCATION](#education) | [EXPERIENCE](#experience) | [LINKEDIN](https://www.linkedin.com/in/ggp86/)
 
-We increasingly live in a world constructed by code and built by coders. That is why I’ve embarked on a career change as a software engineer having worked as a social media specialist for the past 10 years. My career has predominantly serviced the marketing and communications functions across a diverse range of organisations operating in the private, public and third sector. Most recently, I've spent 4 years working in the insurance industry as the UK's Social Media Manager for Hiscox, a FTSE100 company. Whilst at Hiscox I realised the importance of coding as a skill, and how it impacted most of the projects I was involved in which ultimately led me to change my career.
+We increasingly live in a world constructed by code and built by coders. That is why I’ve embarked on a career change as a software engineer having worked as a social media specialist for the past 10 years. My career has predominantly serviced the marketing and communications functions across a diverse range of organisations operating in the private, public and third sector. Most recently, I've spent 4 years working in the insurance industry as the UK's Social Media Manager for Hiscox, an FTSE100 company. Whilst at Hiscox I realised the importance of coding as a skill, and how it impacted most of the projects I was involved in which ultimately led me to change my career.
 
 I find it very stimulating that coding allows you to find a creative solution towards solving a problem and it drives you to continuously learn so that you can be at the forefront of your trade.
 
