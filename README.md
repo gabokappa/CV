@@ -9,11 +9,11 @@ I find it very stimulating that coding allows you to find a creative solution to
 
 #### Teamwork
 
-At Hiscox, I led a project that aimed to generate leads through social media advertising. The project involved coordinating and working with external tech and creative teams together with internal data controllers. In order to achieve success I had to work closely with these teams to overcome technical difficulties and reach compromises to ensure the project stayed on track. Part of the project involved managing stakeholder expectations and ensuring the project remained front of mind ampngst other priorities.
+At Hiscox, I led a project that aimed to generate leads through social media advertising. The project involved coordinating and working with external tech and creative teams together with internal data controllers. In order to achieve success I had to work closely with these teams to overcome technical difficulties and reach compromises to ensure the project stayed on track. Part of the project involved managing stakeholder expectations and ensuring the project remained front of mind amongst other priorities.
 
 #### Adaptability
 
-I'm a highly adaptable individual, which has been reflected in both my professional and personal life. My career has led me to successfully work in different sectors and environaments, be it government, agency or multinational corporations. Each of these brining their own challenges and rewards. I've also lived many years in Latin America adapting to new languages and societies.
+I'm a highly adaptable individual, which has been reflected in both my professional and personal life. My career has led me to successfully work in different sectors and environaments, be it government, agency or multinational corporations. Each of these bringing their own challenges and rewards. I've also lived many years in Latin America adapting to new languages and societies.
 
 #### Crisis management
 
@@ -59,7 +59,7 @@ London’s leading software development bootcamp.
 
 **Hiscox** (March '15 to April '19)    
 *UK Social Media Manager*  
-- Social media lead for UK operations, where I led advertising campaigns and revenue generating projects. This involved taking an agile approach to working with both external creative agencies and internal data managers to A/B test creatives and targeting in order to maximise return.
+- Social media lead for UK operations, where I led advertising campaigns and revenue generating projects. This involved taking an agile approach to working with both external creative agencies and internal data managers to A/B test creatives and their targeting in order to maximise return.
 
 **British Dental Association (BDA)** (August '12 to March '15)   
 *Communities and Social Media Executive*  
