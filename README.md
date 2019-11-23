@@ -13,7 +13,7 @@ At Hiscox, I led a project that aimed to generate leads through social media adv
 
 #### Adaptability
 
-I'm a highly adaptable individual, which has been reflected in both my professional and personal life. My career has led me to successfully work in different sectors and environaments, be it government, agency or multinational corporations. Each of these bringing their own challenges and rewards. I've also lived many years in Latin America adapting to new languages and societies.
+I'm a highly adaptable individual, which has been reflected in both my professional and personal life. My career has led me to successfully work in different sectors and environments, be it government, agency or multinational corporations. Each of these bringing their own challenges and rewards. I've also lived many years in Latin America adapting to new languages and societies.
 
 #### Crisis management
 
